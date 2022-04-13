@@ -1,5 +1,5 @@
 import { render , screen } from "@testing-library/react"
-import SearchByButton from "../SearchByButton"
+import SearchByButton from "../SearchByRouteButton"
 
 test('Renders both buttons correctly', () => {
     const handleClick = () => {}

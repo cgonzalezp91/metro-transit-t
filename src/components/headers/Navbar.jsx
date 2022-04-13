@@ -38,8 +38,8 @@ export default function Navbar() {
             <a href='/' className='navbar-item'>
               Home
             </a>
-            <a href='/' className='navbar-item'>
-              Documentation
+            <a href='/about' className='navbar-item'>
+              About
             </a>
           </div>
         </div>
